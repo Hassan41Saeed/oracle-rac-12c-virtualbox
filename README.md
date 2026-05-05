@@ -3,11 +3,11 @@ This project demonstrates a cost-optimized Oracle RAC 12c architecture using vir
 without reliance on expensive SAN infrastructure. The implementation simulates enterprise clustering behavior suitable for mid-scale
 environments and testing scenarios.
 
-# Oracle Virtual Box: To ensure it is successful on open-source virtualization solutions.
+## Oracle Virtual Box: To ensure it is successful on open-source virtualization solutions.
 
-# 2-Node architecture was seleted due to resource limitation and implementation time. 
+## 2-Node architecture was seleted due to resource limitation and implementation time. 
 
-# NOTE: OL6 was used to match the client's production environment at the time of implementation.
+## NOTE: OL6 was used to match the client's production environment at the time of implementation.
 
 # 2-Node Oracle RAC 12c on VirtualBox
 
@@ -177,4 +177,4 @@ SELECT inst_name FROM v$active_instances;
 The complete step-by-step SOP with screenshots is available in
 [docs/oracle-rac-12c-implementation-guide.pdf](docs/oracle-rac-12c-implementation-guide.pdf)
 
-# Video Tutotrial https://youtu.be/_hh6R26YiAs
+## Video Tutotrial https://youtu.be/_hh6R26YiAs
