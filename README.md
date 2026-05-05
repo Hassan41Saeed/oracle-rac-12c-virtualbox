@@ -1,4 +1,13 @@
-NOTE: OL6 was used to match the client's production environment at the time of implementation.
+# Executive Summary
+This project demonstrates a cost-optimized Oracle RAC 12c architecture using virtualization, designed to deliver high availability
+without reliance on expensive SAN infrastructure. The implementation simulates enterprise clustering behavior suitable for mid-scale
+environments and testing scenarios.
+
+# Oracle Virtual Box: To ensure it is successful on open-source virtualization solutions.
+
+# 2-Node architecture was seleted due to resource limitation and implementation time. 
+
+# NOTE: OL6 was used to match the client's production environment at the time of implementation.
 
 # 2-Node Oracle RAC 12c on VirtualBox
 
