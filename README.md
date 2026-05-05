@@ -177,4 +177,4 @@ SELECT inst_name FROM v$active_instances;
 The complete step-by-step SOP with screenshots is available in
 [docs/oracle-rac-12c-implementation-guide.pdf](docs/oracle-rac-12c-implementation-guide.pdf)
 
-##Video Tutotrial https://youtu.be/_hh6R26YiAs
+# Video Tutotrial https://youtu.be/_hh6R26YiAs
